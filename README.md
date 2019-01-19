@@ -3,5 +3,5 @@ This project was done in group with Aisha Alaagib, [Yasser Bouchareb](https://gi
 
 -[Report](https://github.com/ngnawejonas/ammi_project_houseprices/blob/master/House_Prices.pdf)
 
--[Source Code](https://github.com/BYSD/AMMI_Project)
+-[Source Code](https://github.com/ngnawejonas/AMMI_Project)
 
